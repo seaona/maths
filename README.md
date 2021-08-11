@@ -22,7 +22,7 @@ function gcd_euclid(x, y) {
 Comparision brute-force vs Euclid's Algorithm time execution:
 ![Euclid Time](/pics/euclid-time.png)
 
-Nice [geometric visualization]("https://www.geogebra.org/m/ztbesvsd"):
+Nice [geometric visualization](https://www.geogebra.org/m/ztbesvsd):
 ![Euclid Time](/pics/euclid-visualization.gif)
 
 **Code**: /algorithms/euclid-algorithm.js
